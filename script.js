@@ -6,6 +6,7 @@
 // Bonus: Make it so it organizes strings differently from number types. 
 // i.e. [1, "2", "3", 2] should return [[1,2], ["2", "3"]]
 
+console.log('hello world');
 const array = [1,2,4,591,392,391,2,5,10,2,1,1,1,20,20];
 
 function answer(array) {
